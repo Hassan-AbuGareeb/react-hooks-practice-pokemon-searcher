@@ -1340,6 +1340,17 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "hihio",
+      "hp": "90",
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "frontUrl": "hho",
+      "backUrl": "ooh",
+      "id": 151
     }
   ]
 }
